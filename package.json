@@ -116,7 +116,7 @@
     "prodotype": "^1.0.28",
     "promise-sequential": "1.1.1",
     "pug-cli": "1.0.0-alpha6",
-    "redux": "4.2.0",
+    "redux": "5.0.0",
     "redux-undo": "1.0.1",
     "request": "2.88.2",
     "responsize": "0.0.7",
